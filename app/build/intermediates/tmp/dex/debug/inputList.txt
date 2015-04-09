@@ -1,0 +1,2 @@
+/Users/pauldavid/Downloads/Java2DialogFragmentEx/app/build/intermediates/classes/debug
+/Users/pauldavid/Downloads/Java2DialogFragmentEx/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-6059294636bba62ce8a6c32e8d4fde101aef4c47.jar

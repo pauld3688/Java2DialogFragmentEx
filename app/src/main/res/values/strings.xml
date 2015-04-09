@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Java2_Lab6_David</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="fire">Fire</string>
+    <string name="delay">Fire</string>
+    <string name="dialog_fire_missiles">Fire Missiles?</string>
+    <string name="fire_btn">Fire!</string>
+    <string name="color_button">Pick Color</string>
+    <string name="pick_color">Pick a Color</string>
+
+    <string-array name="colors_array">
+        <item >Red</item>
+        <item >Green</item>
+        <item >Blue</item>
+        <item >Black</item>
+    </string-array>
+    <string name="pick_toppings">Pick Your Toppings</string>
+    <string-array name="toppings">
+        <item >Onion</item>
+        <item >Lettuce</item>
+        <item >Tomato</item>
+    </string-array>
+    <string name="ok">Ok</string>
+    <string name="toppings_btn">Toppings</string>
+
+
+</resources>
